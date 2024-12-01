@@ -1,0 +1,1 @@
+//32.	Imita el comportamiento de map(). complicado//
